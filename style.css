@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:#EEE1;
+    font-family: 'STIX Two Math', serif;
+}
+#mamun{
+    margin-top: 5px;
+}
+.container{
+    max-width: 176px;
+ border-style: solid;border-color:#fa983a #c7ecee aquamarine #0097e6;
+    margin: 0 auto;
+    
+}
+.far
+{
+    font-size: 17px;
+    padding-top: 2px;
+    color:#3867d6;
+  border: 2px solid #54A0FF;
+  border-radius: 50%;
+  float: left;
+}
+.header-bio1 h3{
+    width: 45px;
+   
+    color: yellowgreen;
+  
+    float: left;
+}
+
+.main{
+    
+    color: #E67E22;
+}
+
+ 
